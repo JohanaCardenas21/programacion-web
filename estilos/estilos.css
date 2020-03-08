@@ -1,0 +1,19 @@
+footer{
+    margin-top: 341px;
+}
+#img_1{
+    width: 220px;
+}
+#img_2{
+    width: 220px;
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 81%;
+}
+#texto_1{
+    position: absolute;
+    width: 780px;
+    height: 400px;
+    margin-left: 18%;
+    margin-top: -17%;
+}
